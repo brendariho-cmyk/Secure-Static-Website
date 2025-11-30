@@ -33,7 +33,10 @@ This architecture allows artists to deploy fully customized websites with **glob
 ```
 ![Architecture Diagram](https://github.com/brendariho-cmyk/Secure-Static-Website/blob/main/architecture-diagram/diagram.png)
 ```
+
 ![Architecture Diagram](https://github.com/brendariho-cmyk/Secure-Static-Website/blob/main/architecture-diagram/diagram.png)
+
+
 ---
 
 # **4. Components**
@@ -188,6 +191,8 @@ Screenshots for all tests are included in:
 ```
 /screenshots
 ```
+
+![Artist Portfolio Webpages](https://github.com/brendariho-cmyk/Secure-Static-Website/blob/main/art%20portfolio%20webpages/2.%20Gallery.PNG)
 
 ---
 
